@@ -1,1 +1,2 @@
-# javascript_practice
+# JavaScript Practice
+### This is a javascript practice repo.
