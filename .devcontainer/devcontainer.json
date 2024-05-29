@@ -23,9 +23,15 @@
 				"wayou.vscode-todo-highlight"
 			],
 			"settings": {
-				"editor.fontSize": 22,
 				"terminal.integrated.fontSize": 20,
-				"editor.wordWrap": "on"
+				"editor.wordWrap": "on",
+				"explorer.confirmDragAndDrop": false,
+			    "editor.fontFamily": "'Operator Mono', 'monospace', monospace",
+				"editor.fontSize": 26,
+				"workbench.colorTheme": "GitHub Dark",
+				"workbench.iconTheme": "vscode-icons",
+				"editor.mouseWheelZoom": true
+				
 			}
 			
 		}
